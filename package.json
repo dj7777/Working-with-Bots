@@ -2,7 +2,7 @@
   "entry point": "basicDialog.js",
   "main": "basicDialog.js",
   "scripts": {
-    "start": "basicDialog.js"
+    "start": "node basicDialog"
   },
   "dependencies": {
     "botbuilder": "^3.4.2",
